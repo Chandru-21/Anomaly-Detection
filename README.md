@@ -4,4 +4,4 @@ Anomaly detection, also called outlier detection, is the identification of unexp
 
 Here I have used Machine Learning to progressively identify and automate anomaly detection.
 
-PS-Most graphs are plotted using plotly library so they won't render in github.So,view the notebook in google colab.
+P.S. -Most graphs are plotted using plotly library so they won't render in github.So,view the notebook in google colab.
